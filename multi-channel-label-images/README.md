@@ -15,7 +15,7 @@ Label images stored in OME-TIFF or OME-Zarr:
 
 ### Alignment with per-observation feature values
 
-Each observation may be associated with feature values (i.e., an observation-by-feature matrix for each channel with shape $ O_c \times F_c $)
+Each observation may be associated with feature values (i.e., an observation-by-feature matrix for each channel with shape $O_c \times F_c$ )
 
 These observation-by-feature matrices should be stored in a MuData object `mdata`:
 - Modality keys must correspond to the channel names in the label image
