@@ -1,8 +1,8 @@
 # data-conventions
 
-This repository documents specific storage conventions developed on top of more general standard file formats.
+This repository documents specific storage conventions developed on top of more general standard file formats. This documentation will point to validation/parsing tools where they exist.
 
-This effort is focused on single-cell use cases and compatibility with [Vitessce](https://github.com/vitessce/vitessce).
+This effort is focused on single-cell use cases.
 
 ## Related efforts
 
